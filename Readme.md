@@ -1,6 +1,6 @@
-========================================================================
-       STATIC LIBRARY : BlockingSocket
-========================================================================
+
+#       STATIC LIBRARY : BlockingSocket
+
 
 
 This static library enables applications to communicate over the internet 
