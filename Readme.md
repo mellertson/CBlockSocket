@@ -1,9 +1,9 @@
 
-#       STATIC LIBRARY : BlockingSocket
+#       BlockingSocket - C++ Library
 
 
 
-This static library enables applications to communicate over the internet 
+This library enables applications to communicate over the internet 
 or local networks using the TCP/IP protocol.  It's object-oriented and 
 developed in C++.  It depends on the MFC libraries.
 
